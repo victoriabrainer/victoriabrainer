@@ -16,8 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/victoriabrainer">
-  <img height="170em" width="49%" src="https://github-readme-stats.vercel.app/api?username=victoriabrainer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriabrainer&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=victoriabrainer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriabrainer&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ### > Languages and Tools
