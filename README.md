@@ -2,8 +2,10 @@
 
 - 🌱 I’m currently learning JavaScript.
 - 🚀 I’m studying to be a Full Stack Developer.
-- 📫 How to reach me: [Gmail](victoria.rbrainer@gmail.com)
+- 🎯 "You will never win if you never begin"
+
 <!--
+- 📫 How to reach me: [Gmail](victoria.rbrainer@gmail.com)
 - 🔭 I’m currently working on ...
 - 🎯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -22,7 +24,7 @@
 ### > Languages and Tools
 
 <div style="display: inline_block"><br>
-  <img align="right" height="170" style="border-radius:50px;" alt="function-coding" src="function-coding.gif">
+  <img align="right" height="170" alt="function-coding" src="function-coding.gif">
   <img align="center" alt="HTML5" height="35" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="35" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="35" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -48,6 +50,5 @@
   <a href="https://www.linkedin.com/in/victoriabrainer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
   
-  ##
   
 ![Snake animation](https://github.com/victoriabrainer/victoriabrainer/blob/output/github-contribution-grid-snake.svg)
