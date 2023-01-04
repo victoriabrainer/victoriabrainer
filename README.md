@@ -36,6 +36,7 @@
   <img align="center" alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="right" height="20%" alt="function-coding" src="fuction-coding.gif">
 </div>
 
 ##
@@ -47,8 +48,5 @@
 </div> 
   
   ##
-
-   <img align="center" height="20%" alt="function-coding" src="DEV/../../gifs/fuction-coding.gif">
-   
   
 ![Snake animation](https://github.com/victoriabrainer/victoriabrainer/blob/output/github-contribution-grid-snake.svg)
