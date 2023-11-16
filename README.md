@@ -16,7 +16,7 @@
 
   ##
 
-<div>
+<div align="center">
   <a href="https://github.com/victoriabrainer">
     <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api?username=victoriabrainer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
