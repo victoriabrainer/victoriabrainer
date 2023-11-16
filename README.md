@@ -16,12 +16,12 @@
 
   ##
 
-<div align="center">
+<div>
   <a href="https://github.com/victoriabrainer">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=victoriabrainer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&card_width=290"/>
+    <img height="200" width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=victoriabrainer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriabrainer&layout=compact&langs_count=8&theme=midnight-purple&card_width=250"/>
+    <img height="200" width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriabrainer&layout=compact&langs_count=8&theme=midnight-purple"/>
   </a>
 </div>
 
