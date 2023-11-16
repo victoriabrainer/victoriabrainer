@@ -18,7 +18,7 @@
 
 <div>
   <a href="https://github.com/victoriabrainer/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriabrainer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img align="center" height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=victoriabrainer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/victoriabrainer/github-readme-stats">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriabrainer&layout=compact&langs_count=8&theme=midnight-purple"/>
