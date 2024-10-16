@@ -1,6 +1,6 @@
 ## :space_invader: Hello, world! I'm Victoria Brainer! 👋
 
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Angular.
 - 🚀 I’m studying to be a Full Stack Developer.
 - 🎯 "You will never win if you never begin"
 
@@ -17,9 +17,7 @@
   ##
 
 <div align="center">
-  <a href="https://github.com/victoriabrainer">
-    <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api?username=victoriabrainer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  </a>
+  <a href="https://github.com/victoriabrainer"><img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api?username=victoriabrainer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriabrainer&layout=compact&langs_count=8&theme=midnight-purple"/>
   </a>
@@ -34,12 +32,14 @@
   <img align="center" alt="JavaScript" height="35" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="35" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Bootstrap" height="35" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="TypeScript" height="35" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Angular" height="35" width="40" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
 </div>
 
 ### > I want to learn
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript" height="35" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="NestJS" height="35" width="40" title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="React" height="35" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="35" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="35" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
